@@ -6,3 +6,5 @@ console.log('master commit-1')
 console.log('master commit-2')
 console.log('master commit 1 after feature-3 creation')
 console.log('master commit 2 after feature-3 creation')
+
+adding first change to master after changing feagture
