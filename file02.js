@@ -9,4 +9,4 @@ console.log('master commit 2 after feature-3 creation')
 
 adding first change to master after changing feagture
 
-we are on master 
+frist change on test
