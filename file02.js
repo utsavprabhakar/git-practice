@@ -10,3 +10,5 @@ console.log('master commit 2 after feature-3 creation')
 adding first change to master after changing feagture
 
 frist change on test
+
+yo feature-one change 1
